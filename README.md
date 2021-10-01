@@ -1,4 +1,4 @@
-<h1 align="center">Hello forks! I'm Rahul! 😄</h1>
+<h1 align="center">Hello Folks! I'm Rahul! 😄</h1>
 <h3 align="center">Fullstack Developer and Otaku from India</h3>
 
 - 🔭 I’m currently working on **Mastering BackendEnd Development**
