@@ -1,15 +1,15 @@
 <h1 align="center">Hello Folks! I'm Rahul! 😄</h1>
 <h3 align="center">Fullstack Developer and Otaku from India</h3>
 
-- 🔭 I’m currently working on **Mastering BackendEnd Development**
+- 🔭 I’m currently working on **Mastering FrontEnd Development**
 
-- 🌱 I’m currently learning **NodeJS and React**
+- 🌱 I’m currently learning **Javascript and React**
 
 - 🤝 I’m looking for help with **Backend Development**
 
 - 👨‍💻 All of my projects are available [https://github.com/RahulRudra81](https://github.com/RahulRudra81)
 
-- 💬 Ask me about **HTML,CSS,Java,PHP,C++ And Anime🤔😂**
+- 💬 Ask me about **HTML,CSS,Bootstrap,C++,Competitive Programming And Anime🤔😂**
 
 - 📫 How to reach me **rudrarahul81@gmail.com**
 
