@@ -26,7 +26,7 @@ I am a dedicated Full Stack Developer with a strong focus on delivering high-per
 ## **Skill Set**
 
 **Languages and Frameworks:**  
-- Proficient in **C, C++, Python, HTML, CSS, JavaScript, SQL**
+- Proficient in **C, C++, Python, HTML, CSS, JavaScript, TypeScript, SQL**
 - Experienced in **React, Express, Node.js, Next.js, Tailwind CSS, WordPress**
 
 **Databases and Tools:**
@@ -34,7 +34,7 @@ I am a dedicated Full Stack Developer with a strong focus on delivering high-per
 - Proficient with **Git** for version control, deployment through **Firebase** and **AWS**
 
 **Core Competencies:**
-- Frontend Development: UI/UX optimization, component-based architecture with React and Next.js.
+- Frontend Development: UI/UX optimization, component-based architecture with React, Next.js, and TypeScript.
 - Backend Development: API development, RESTful services, authentication, and database management.
 - Cloud Services: Data optimization, AWS services for scalability, Firebase integrations.
 
@@ -42,13 +42,23 @@ I am a dedicated Full Stack Developer with a strong focus on delivering high-per
 
 ## **Professional Experience**
 
+**Software Developer | YBIntel**  
+**October 2024 - Present**  
+- Currently working on a complete website revamp, transforming an older Django-based site with HTML/CSS into a Next.js and Express.js architecture.
+- Leveraging AWS services to automate website operations, significantly enhancing functionality and user interaction.
+
+**Full Stack Developer | Vandayam**  
+**August 2024 - October 2024**  
+- Developed a live animal tracking system using MQTT servers with ChirpStack and AWS, incorporating Node.js and Express.js for backend services.
+- Collaborated on creating a highly scalable system to support real-time tracking and monitoring, ensuring effective data management.
+
 **Frontend Developer Intern | Apni Kaksha**  
-**June 2024 - Present**  
+**June 2024 - August 2024**  
 - Developed a comprehensive test-taking application with Next.js for streamlined recruiter workflows, allowing test creation, candidate management, and detailed analytics reporting.
 
 **Full Stack Developer (Part-Time, Contractual) | Audio AI, LLC**  
 **June 2023 - December 2023**  
-- Engineered and deployed websites integrating machine learning applications, achieving a 50% increase in performance via React, MongoDB, and AWS services.
+- Engineered and deployed websites integrating machine learning applications using React, JavaScript, Node.js, Express, MongoDB, Firebase, and DynamoDB.
 
 **Web Developer Intern | Innovination**  
 **October 2022 - December 2022**  
