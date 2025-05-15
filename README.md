@@ -13,7 +13,7 @@ I am a dedicated Full Stack Developer with a strong focus on delivering high-per
 - Enhancing skills in **CI/CD**, **infrastructure as code (IaC)**, and core AWS services like **Lambda, EC2, S3, DynamoDB, Cognito**, and **Amplify**.
 
 ### 🤝 **Open to Collaborations**
-- Open to backend, DevOps, and **cloud-native projects** with a focus on automation and scalability.
+- Open to Full Stack, DevOps, and **cloud-native projects** with a focus on automation and scalability.
 
 ### ❓ **Technical Insight**
 - Reach out for discussions on **DevOps**, **full stack backend systems**, **AWS architecture**, or **AI integration** in web apps.
