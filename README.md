@@ -7,16 +7,16 @@ I am a dedicated Full Stack Developer with a strong focus on delivering high-per
 ---
 
 ### 🔭 **Current Focus**
-- Currently enhancing my expertise in frontend architecture with Next.js, pushing the limits of user experience and scalability.
-  
+- Currently diving deep into **DevOps**, **cloud infrastructure**, and backend scalability using **AWS components**.
+
 ### 🌱 **Continuous Learning**
-- Expanding my knowledge in advanced backend practices, including cloud computing with AWS and data optimization.
+- Enhancing skills in **CI/CD**, **infrastructure as code (IaC)**, and core AWS services like **Lambda, EC2, S3, DynamoDB, Cognito**, and **Amplify**.
 
 ### 🤝 **Open to Collaborations**
-- Actively seeking opportunities to collaborate on backend development, cloud services integration, and cutting-edge web technologies.
+- Open to backend, DevOps, and **cloud-native projects** with a focus on automation and scalability.
 
 ### ❓ **Technical Insight**
-- Feel free to reach out with questions on full stack development, specifically the MERN stack, data management, or integrating AI into web applications.
+- Reach out for discussions on **DevOps**, **full stack backend systems**, **AWS architecture**, or **AI integration** in web apps.
 
 ### 📫 **Get in Touch**
 - Email: [rudrarahul81@gmail.com](mailto:rudrarahul81@gmail.com)
