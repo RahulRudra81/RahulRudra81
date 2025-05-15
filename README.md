@@ -16,7 +16,7 @@ I am a dedicated Full Stack Developer with a strong focus on delivering high-per
 - Open to Full Stack, DevOps, and **cloud-native projects** with a focus on automation and scalability.
 
 ### ❓ **Technical Insight**
-- Reach out for discussions on **DevOps**, **full stack backend systems**, **AWS architecture**, or **AI integration** in web apps.
+- Reach out for discussions on **DevOps**, **full stack systems**, **AWS architecture**, or **AI integration** in web apps.
 
 ### 📫 **Get in Touch**
 - Email: [rudrarahul81@gmail.com](mailto:rudrarahul81@gmail.com)
